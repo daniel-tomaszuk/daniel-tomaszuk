@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning new data structures and algorithms. My leetcode profile: https://leetcode.com/u/daniel_tomaszuk/
 
-![](https://leetcard.jacoblin.cool/daniel_tomaszuk?ext=heatmap?cache=1800)
+![](https://leetcard.jacoblin.cool/daniel_tomaszuk?ext=heatmap&cache=1800)
 
 
 
