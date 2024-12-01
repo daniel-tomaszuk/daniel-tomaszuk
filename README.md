@@ -4,7 +4,8 @@
 
 👯 I’m looking to collaborate on Python backend web development - Django (Rest Framework) / FastAPI
 
-🌱 I’m currently learning new data structures and algorithms. My leetcode profile: https://leetcode.com/u/daniel_tomaszuk/
+🌱 I’m currently doing Data Science post grad studies (Warsaw University). 
+From time to time I also like to solve some leetcode problems ;) My leetcode profile: https://leetcode.com/u/daniel_tomaszuk/
 
 ![](https://leetcard.jacoblin.cool/daniel_tomaszuk?ext=heatmap&cache=1800)
 
